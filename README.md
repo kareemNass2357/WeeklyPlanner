@@ -15,7 +15,7 @@ Can be used on any excel including mobile & online , to use all features use the
 ## adding / editing a Habbit of weekly task
 	you can simple change the name of the task or add/remove 
 	by following the picture :
-	![addWeeklyTask](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/adding%20task.gif?raw=true)
+![addWeeklyTask](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/adding%20task.gif?raw=true)
 ## plan your week 
 	in the weeks view, switch to this weeks view
 	assign how many time you like to do the task/habbit this week
@@ -26,7 +26,7 @@ Can be used on any excel including mobile & online , to use all features use the
 
 	all this is exaplined in the handy video :
 
-	https://gph.is/g/aXVBy6O
+https://gph.is/g/aXVBy6O
 
 ## assign task as done
 	on desktop: simply select the task and press the "Done" button in the weekly view
