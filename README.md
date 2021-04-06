@@ -2,6 +2,7 @@
  Habit tracker &amp; weekly planner: Easy, online, cross-platform , doesn't require installation.
  
 Can be used on any excel including mobile & online , to use all features use the excel on the desktop version
+![ad](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/ad.jpg?raw=true)
 
 ![modes](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/Modes.gif?raw=true)
 
