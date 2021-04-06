@@ -26,7 +26,7 @@ Can be used on any excel including mobile & online , to use all features use the
 
 	all this is exaplined in the handy video :
 
-https://gph.is/g/aXVBy6O
+![planweek](https://gph.is/g/aXVBy6O)
 
 ## assign task as done
 	on desktop: simply select the task and press the "Done" button in the weekly view
