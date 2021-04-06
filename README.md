@@ -7,18 +7,29 @@ Can be used on any excel including mobile & online , to use all features use the
 
 ![modes](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/Modes.gif?raw=true)
 
+
+
+
+## Table of contents
+* [Setting up the app for the first time](#Setting-up-the-app-for-the-first-time)
+* [Adding / editing a Habbit of weekly task](#Adding-/-editing-a-Habbit-of-weekly-task)
+* [Plan your week](#Plan-your-week)
+* [Assign task as done](#Assign-task-as-done)
+* [Contact](#contact)
+
+
 # Instructions
 
-## setting up the app for the first time
+## Setting up the app for the first time
 	firstly you need to enable macros in the file.
 	inserting todays date to the instructed cell where "change date here->" is pointing to (cell J2) 
 	after that you can , edit or add as many tasks or habbits as you want
 	
-## adding / editing a Habbit of weekly task
+## Adding / editing a Habbit of weekly task
 	you can simple change the name of the task or add/remove 
 	by following the picture :
 ![addWeeklyTask](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/adding%20task.gif?raw=true)
-## plan your week 
+## Plan your week 
 	in the weeks view, switch to this weeks view
 	assign how many time you like to do the task/habbit this week
 	you can click on the show desired to see only what you planned for the week
@@ -30,8 +41,11 @@ Can be used on any excel including mobile & online , to use all features use the
 ![weekplan](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/weekPlan.gif?raw=true)
 https://gph.is/g/aXVBy6O
 
-## assign task as done
+## Assign task as done
 	on desktop: simply select the task and press the "Done" button in the weekly view
 	on mobile: select the done task  , and change the cells background to black, the next time you assign the app from your computer, it will update the trackers history
 
 
+## Contact
+for any question get in contact with me :  kareem.nass@outlook.com
+checkout my other projects & my [linkedin](https://www.linkedin.com/in/kareem-nass/)
