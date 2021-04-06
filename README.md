@@ -27,7 +27,7 @@ Can be used on any excel including mobile & online , to use all features use the
 	by clicking on arrange tasks, then select which day to assign the next task to
 
 	all this is exaplined in the handy video :
-
+![weekplan](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/weekPlan.gif?raw=true)
 https://gph.is/g/aXVBy6O
 
 ## assign task as done
