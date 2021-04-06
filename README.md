@@ -3,6 +3,7 @@
  
 Can be used on any excel including mobile & online , to use all features use the excel on the desktop version
 
+![modes](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/Modes.gif?raw=true)
 
 # Instructions
 
@@ -11,10 +12,10 @@ Can be used on any excel including mobile & online , to use all features use the
 	inserting todays date to the instructed cell where "change date here->" is pointing to (cell J2) 
 	after that you can , edit or add as many tasks or habbits as you want
 	
-## adding / editing a Task or Habbit
+## adding / editing a Habbit of weekly task
 	you can simple change the name of the task or add/remove 
 	by following the picture :
-
+	![addWeeklyTask](https://github.com/kareemNass2357/WeeklyPlanner/blob/main/Instructions/adding%20task.gif?raw=true)
 ## plan your week 
 	in the weeks view, switch to this weeks view
 	assign how many time you like to do the task/habbit this week
